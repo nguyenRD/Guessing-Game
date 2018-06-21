@@ -25,3 +25,5 @@ done
 
 echo "Winner, the number of files is" $numberOffiles
 }
+
+guessinggame
